@@ -1,0 +1,19 @@
+{
+    "name": "AdaSDK.PlayerItems",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45",
+        "GUID:41c3a9c8e031050478b33a92db3174fc",
+        "GUID:c79475685dca21a4bba8e81f810371d7",
+        "GUID:f6a956328f6c2b34391901199d1e2c27"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "AdaSdk.localisation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:41c3a9c8e031050478b33a92db3174fc",
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

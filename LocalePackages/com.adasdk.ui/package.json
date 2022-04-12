@@ -1,0 +1,8 @@
+{
+ "name" : "com.adasdk.ui",
+ "displayName" : "AdaSDK.UI",
+ "version" : "1.0.0",
+ "unity" : "2020.1",
+ "description" : "",
+ "hideInEditor" : false
+}

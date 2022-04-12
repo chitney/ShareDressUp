@@ -1,0 +1,20 @@
+{
+    "name": "adasdk.audio.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6773c3d5e36817746a7fa1647e1f889a",
+        "GUID:41c3a9c8e031050478b33a92db3174fc",
+        "GUID:58820d4da547fca40a4b67e512c3ad83"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

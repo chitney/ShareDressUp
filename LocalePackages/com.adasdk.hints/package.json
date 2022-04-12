@@ -1,0 +1,8 @@
+{
+ "name" : "com.adasdk.hints",
+ "displayName" : "AdaSDK.Hints",
+ "version" : "1.0.0",
+ "unity" : "2020.1",
+ "description" : "Game Hints Controller",
+ "hideInEditor" : false
+}

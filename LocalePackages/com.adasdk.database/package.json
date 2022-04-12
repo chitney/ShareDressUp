@@ -1,0 +1,8 @@
+{
+  "name": "com.adasdk.database",
+  "displayName": "AdaSDK.Database",
+  "version": "20.3.2021",
+  "unity": "2018.2",
+  "description": "Dabase scripts",
+  "hideInEditor": false
+}

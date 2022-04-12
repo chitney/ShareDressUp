@@ -1,0 +1,8 @@
+{
+  "name": "com.adasdk.localisation",
+  "displayName": "AdaSDK.Localisation",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "description": "Localisation",
+  "hideInEditor": false
+}

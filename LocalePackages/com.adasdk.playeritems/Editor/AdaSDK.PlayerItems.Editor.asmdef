@@ -1,0 +1,22 @@
+{
+    "name": "AdaSDK.PlayerItems.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:47547a80d61a92c448f6857034502710",
+        "GUID:58820d4da547fca40a4b67e512c3ad83",
+        "GUID:41c3a9c8e031050478b33a92db3174fc",
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45",
+        "GUID:5daefad69b0097840b92f648287ef049"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,32 @@
+key	English	Russian
+skey	En	Ru
+play	Play	Играть
+settings	Settings	Настройки
+rate	Rate the game	Оцените игру
+feedback	Feedback	Обратная связь
+language	Language	Язык
+attribution	Attribution	Ссылки на источники
+English	English	English
+Russian	Русский	Русский
+step1		
+step2		
+step3		
+tutorial	Tutorial	Обучение
+googleplay	Do you want to connect <color=teal>Google Play Games</color> to show your high scores to other users and your friends?	Хочешь подключить <color=teal>Google Play Игры </color> чтобы демонстрировать свои рекорды другим пользователям и своим друзьям? 
+authenticating	Authenticating...	Подключение…
+welcome	Welcome	Привет
+auth_fail	Authentication failed.	Ошибка подключения.
+pause	Pause	Пауза
+resume	Resume	Продолжить
+save	Save	Сохранить
+exit	Exit	Выйти
+no_ads	Sorry, but there are no available videos to show right now. Please try again later! 	Извините, но сейчас нет доступных видеороликов. Пожалуйста, попробуйте еще раз позже!
+gameover	Game over	Конец игры
+sounds	Sounds	Звуки
+music	Music	Музыка
+vibro	Vibration	Вибрация
+back	Back	Назад
+character	Character	Кого одеваем?
+memory	Not enough space	Недосаточно памяти
+error	Ooops! Something went wrong	Упс! Что-то пошло не так
+gallery	Gallery	Галерея

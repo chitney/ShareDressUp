@@ -1,0 +1,19 @@
+{
+    "name": "AdaSDK.ADS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45",
+        "GUID:ff6de30450f3748908ff580f6ec64d9a",
+        "GUID:47547a80d61a92c448f6857034502710",
+        "GUID:f6a956328f6c2b34391901199d1e2c27"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

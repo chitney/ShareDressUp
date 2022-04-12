@@ -1,0 +1,18 @@
+{
+    "name": "AdaSDK.Google",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45",
+        "GUID:4139e191aa32f459e9eb2e331225ad7e",
+        "GUID:b4318b6f3695442c4983c360248781db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

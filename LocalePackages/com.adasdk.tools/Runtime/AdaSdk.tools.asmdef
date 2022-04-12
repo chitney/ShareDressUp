@@ -1,0 +1,18 @@
+{
+    "name": "AdaSdk.tools",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f2a2dc12babc89f44b9dd551e2c922b6",
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45",
+        "GUID:51d1e5247e123d84a8528adc146cd5b4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

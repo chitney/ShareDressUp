@@ -1,0 +1,9 @@
+{
+  "name": "com.adasdk.audio",
+  "displayName": "AdaSDK.Audio",
+  "version": "20.3.2021",
+  "unity": "2018.2",
+  "description": "Audio scripts",
+  "hideInEditor": false,
+  "dependencies": {}
+}

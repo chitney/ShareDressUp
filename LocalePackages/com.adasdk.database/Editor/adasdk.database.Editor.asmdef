@@ -1,0 +1,19 @@
+{
+    "name": "adasdk.database.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:41c3a9c8e031050478b33a92db3174fc",
+        "GUID:5daefad69b0097840b92f648287ef049"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

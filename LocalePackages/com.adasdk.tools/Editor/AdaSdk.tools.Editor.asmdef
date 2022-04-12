@@ -1,0 +1,19 @@
+{
+    "name": "AdaSdk.tools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c79475685dca21a4bba8e81f810371d7",
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

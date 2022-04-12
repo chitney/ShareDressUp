@@ -1,0 +1,17 @@
+{
+    "name": "AdaSDK.Hints",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a806be0bc8c4ba340b43cb551ba54a45",
+        "GUID:3003573c81a5bb342a4dcaa6bf01c491"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
